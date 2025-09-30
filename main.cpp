@@ -1,5 +1,4 @@
-#include <glad/glad.h>
-#include <GLFW/glfw3.h>
+#include <GL/glut.h>
 #include <iostream>
 
 // vertex shader
