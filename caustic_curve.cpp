@@ -1,4 +1,4 @@
-// caustic_curve_fixed.cpp
+// caustic_curve.cpp
 // Fixed-parameter build of the classic caustic demo (no stdin/argv needed).
 
 #include <cmath>
